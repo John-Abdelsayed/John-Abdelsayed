@@ -23,7 +23,7 @@
 
 ---
 
-### [My Resume](resume.md)
+### [My Resume](https://resume.johnmarcusaziz.com)
 
 ---
 ### My stats
